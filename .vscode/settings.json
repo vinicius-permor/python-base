@@ -1,0 +1,9 @@
+{
+  "window.zoomLevel": 1,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "autopep8, black",
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 12
+}
